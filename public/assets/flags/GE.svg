@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GE</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-235.000000, -325.000000)">
+            <g id="GE" transform="translate(235.500000, 325.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="27.5" height="19.5" rx="2"></rect>
+                        <path d="M16,-1.33333333 L15.9996667,7.99966667 L29.3333333,8 L29.3333333,12 L15.9996667,11.9996667 L16,21.3333333 L12,21.3333333 L11.9996667,11.9996667 L-1.33333333,12 L-1.33333333,8 L11.9996667,7.99966667 L12,-1.33333333 L16,-1.33333333 Z" id="Rectangle-2" stroke="none" fill="#FF2B37" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <path d="M22.6666667,2 L22.4,3.599 L24,3.33333333 L24,4.66666667 L22.4,4.4 L22.6666667,6 L21.3333333,6 L21.599,4.4 L20,4.66666667 L20,3.33333333 L21.599,3.599 L21.3333333,2 L22.6666667,2 Z" id="Rectangle-742" stroke="none" fill="#FD0D1B" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <path d="M6.66666667,2 L6.4,3.599 L8,3.33333333 L8,4.66666667 L6.4,4.4 L6.66666667,6 L5.33333333,6 L5.599,4.4 L4,4.66666667 L4,3.33333333 L5.599,3.599 L5.33333333,2 L6.66666667,2 Z" id="Rectangle-742" stroke="none" fill="#FD0D1B" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <path d="M6.66666667,14 L6.4,15.599 L8,15.3333333 L8,16.6666667 L6.4,16.4 L6.66666667,18 L5.33333333,18 L5.599,16.4 L4,16.6666667 L4,15.3333333 L5.599,15.599 L5.33333333,14 L6.66666667,14 Z" id="Rectangle-742" stroke="none" fill="#FD0D1B" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <path d="M22.6666667,14 L22.4,15.599 L24,15.3333333 L24,16.6666667 L22.4,16.4 L22.6666667,18 L21.3333333,18 L21.599,16.4 L20,16.6666667 L20,15.3333333 L21.599,15.599 L21.3333333,14 L22.6666667,14 Z" id="Rectangle-742" stroke="none" fill="#FD0D1B" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

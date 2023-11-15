@@ -1,0 +1,9 @@
+.main_panier_v2 {
+    height: 100%;
+    width: 100%;
+    position: fixed !important;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.5);
+    right: 0px;
+    overflow: hidden;
+}

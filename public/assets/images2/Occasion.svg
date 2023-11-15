@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="37px" viewBox="0 0 154 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C3B85534-FCF6-4017-B1A4-C0686066588C</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="150" height="33" rx="6"></rect>
+        <filter x="-2.0%" y="-9.1%" width="104.0%" height="118.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#80C3F3" offset="0%"></stop>
+            <stop stop-color="#1A7EF5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-108.000000, -141.000000)">
+            <g id="Bouton/Occasion" transform="translate(110.000000, 143.000000)">
+                <g id="Bouton_Choix_Boutique_Occase">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Base_Slide_Bulle_Bouton_Occase" fill="#D8D8D8" x="45" y="9" width="42" height="15" rx="7.5"></rect>
+                <circle id="Bulle_Bouton_Occase" fill="url(#linearGradient-3)" cx="75.5" cy="16.5" r="11.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

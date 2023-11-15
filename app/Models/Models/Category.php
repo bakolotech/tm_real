@@ -1,0 +1,37 @@
+<?php
+
+namespace App\Models\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Category extends Model
+{
+    use HasFactory;
+    protected $table = 'categies';
+
+    protected $fillable = [
+        'name', 'slug', 'description', 'parent_id', 'featured', 'menu', 'image'
+    ];
+
+    protected $cast = [
+        'parent_id' => 'integer',
+        'featured' => 'boolean',
+        'menu' => 'boolean'
+    ];
+
+    public function setNameAttribute($value) {
+        $this->attributes['name'] = $value;
+        $this->attributes['slug'] = str_slug($value);
+    }
+
+    public function parent() {
+        return $this->belongsTo(Category::class, 'parent_id');
+    }
+
+    public function children() {
+        return $this->hasMany(Category::class, 'parent_id');
+    }
+
+
+}

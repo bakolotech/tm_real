@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="316px" height="245px" viewBox="0 0 316 245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B2DF27FD-0784-46ED-A5C2-984413A433BE</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="216" height="145" rx="10"></rect>
+        <filter x="-37.0%" y="-48.3%" width="174.1%" height="210.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="300" height="180"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-2" transform="translate(-646.000000, -921.000000)">
+            <g id="Carte_Visa_Off" transform="translate(696.000000, 961.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="BG-COLOR">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="**/pattern/1" mask="url(#mask-2)">
+                    <g transform="translate(-42.000000, -18.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="masking" stroke="none" fill="none"></g>
+                        <path d="M53.1836683,-32.7758958 C49.877575,65.470441 91.2046005,120.721584 177.164745,132.977534 C263.124889,145.233484 306.331529,211.4754 306.784664,331.703283 L306.784664,9.12312746 L255.109257,-53.0810811 L53.1836683,-32.7758958 Z" id="path" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.0799999982" mask="url(#mask-5)"></path>
+                        <path d="M122.459406,-41.0474343 C120.027893,31.3003321 150.422439,71.9868039 213.643046,81.0119811 C276.863653,90.0371582 308.640588,138.817142 308.973853,227.351931 L308.973853,-10.1933501 L270.968443,-56 L122.459406,-41.0474343 Z" id="path" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.0799999982" mask="url(#mask-5)"></path>
+                        <path d="M196.118803,-44.4014817 C194.466807,4.65620345 215.117188,32.2449491 258.069946,38.3647551 C301.022704,44.4845612 322.612294,77.5613676 322.838718,137.595174 L322.838718,-23.4798967 L297.017435,-54.5405405 L196.118803,-44.4014817 Z" id="path" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.0799999982" mask="url(#mask-5)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

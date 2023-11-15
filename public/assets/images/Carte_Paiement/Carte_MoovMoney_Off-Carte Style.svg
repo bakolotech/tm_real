@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="316px" height="245px" viewBox="0 0 316 245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E8AA663E-2976-4843-9174-0556A438D76A</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="216" height="145" rx="10"></rect>
+        <filter x="-37.0%" y="-48.3%" width="174.1%" height="210.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="300" height="180"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-2" transform="translate(-1550.000000, -921.000000)">
+            <g id="Carte_MoovMoney_Off" transform="translate(1600.000000, 961.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="BG-COLOR">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="**/pattern/1" mask="url(#mask-2)">
+                    <g transform="translate(-42.000000, -18.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="masking" stroke="none" fill="none"></g>
+                        <circle id="oval" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.0799999982" mask="url(#mask-5)" cx="85" cy="-13" r="115"></circle>
+                        <circle id="oval" stroke="none" fill="#FFFFFF" fill-rule="evenodd" opacity="0.0799999982" mask="url(#mask-5)" cx="171" cy="71" r="57"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

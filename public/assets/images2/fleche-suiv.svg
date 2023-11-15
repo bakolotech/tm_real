@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0BD2BC20-890F-4B28-94FD-A2EA484A35C5</title>
+    <defs>
+        <filter x="-21.7%" y="-21.7%" width="143.3%" height="143.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page-/-Ressources" transform="translate(-249.000000, -106.000000)">
+            <g id="Pack_Ressources" transform="translate(54.000000, 42.718881)">
+                <g id="Icons/100_Bas_Droite" filter="url(#filter-1)" transform="translate(196.457323, 64.000000)">
+                    <g id="next-copy">
+                        <ellipse id="Oval" fill="#4A90E2" cx="15" cy="14.5454545" rx="5.90909091" ry="10"></ellipse>
+                        <path d="M15.0387971,0.255562555 C7.00553646,0.255562555 0.493342522,6.76775649 0.493342522,14.8010171 C0.493342522,22.8340838 7.00553646,29.3464716 15.0387971,29.3464716 C23.0720577,29.3464716 29.5842516,22.8340838 29.5842516,14.8010171 C29.5842516,6.76775649 23.0720577,0.255562555 15.0387971,0.255562555 Z M19.471088,15.7861323 C19.4002031,15.8570171 19.3224334,15.9169444 19.2414637,15.9690171 L13.7825546,21.4279262 C13.5174395,21.6932353 13.1699001,21.8257929 12.8223607,21.8257929 C12.4748213,21.8257929 12.1274759,21.6932353 11.8621668,21.4279262 C11.3317425,20.8975019 11.3317425,20.0373807 11.8621668,19.5071504 L16.5660698,14.8025686 L11.8858274,10.1223262 C11.3554031,9.59161104 11.3554031,8.73178074 11.8858274,8.20155043 C12.4162516,7.67112619 13.2761789,7.6714171 13.8066031,8.20125952 L19.2413668,13.6357323 C19.3223365,13.687805 19.4001062,13.7476353 19.4707001,13.8186171 C19.7418274,14.0897444 19.8726395,14.4468838 19.8665304,14.8024716 C19.8729304,15.1578656 19.7424092,15.514811 19.471088,15.7861323 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

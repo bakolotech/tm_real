@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1F6DCDF9-4850-4F60-85DE-BFC134E7598F</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Marchand-/-Mes_Commandes-/-Détails" transform="translate(-623.000000, -189.000000)" stroke="#9B9B9B">
+            <g id="Head" transform="translate(119.000000, 176.000000)">
+                <g id="Zone-menu" transform="translate(329.000000, 0.000000)">
+                    <g id="Group-6-Copy-3" transform="translate(164.500000, 5.500000)">
+                        <g id="gestionstock" transform="translate(11.000000, 8.500000)">
+                            <path d="M11.3217391,20.9070976 C11.0905217,21.0133129 10.8258252,21.0176461 10.5913043,20.9190552 L0.561521838,16.7099463 C0.221440282,16.5670259 0,16.2321716 0,15.8609499 L0,5.11925966 C0,4.75335587 0.214941413,4.42214368 0.547826186,4.27578219 L10.1347825,0.0767912755 C10.3676547,-0.0255970918 10.6323452,-0.0255970918 10.8652173,0.0767912755 L20.4521737,4.27578219 C20.7850585,4.42214368 21,4.75335587 21,5.11925966 L21,15.881186 C21.0002587,16.2420572 20.7910281,16.5697439 20.4649563,16.7191445 L11.3217391,20.9070976 Z" id="Path"></path>
+                            <line x1="10.9565217" y1="9.11496974" x2="10.9565217" y2="20.9999997" id="Path"></line>
+                            <line x1="10.9565217" y1="9.11496974" x2="20.8347389" y2="4.59220122" id="Path"></line>
+                            <polyline id="Path" points="15.4970868 2.10592029 5.47826089 6.75286488 5.47826089 10.1184964"></polyline>
+                            <line x1="14.6086955" y1="13.7140836" x2="14.6086955" y2="16.9334632" id="Path"></line>
+                            <polyline id="Path" points="13.2391303 15.0938177 14.6086955 13.7140836 15.7499998 14.863862"></polyline>
+                            <line x1="18.2608694" y1="11.874438" x2="18.2608694" y2="15.0938177" id="Path"></line>
+                            <polyline id="Path" points="16.8913042 13.2541722 18.2608694 11.874438 19.4021737 13.0242165"></polyline>
+                            <line x1="10.9565217" y1="9.11496974" x2="0.168913149" y2="4.58668228" id="Path"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

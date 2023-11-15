@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BE</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-235.000000, -85.000000)">
+            <g id="BE" transform="translate(235.500000, 85.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Mask" stroke="none" fill="#FF4453" fill-rule="evenodd" mask="url(#mask-4)" x="13.3333333" y="0" width="14.6666667" height="20"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#262626" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="9.33333333" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" stroke="none" fill="#FFCF3C" fill-rule="evenodd" mask="url(#mask-4)" x="9.33333333" y="0" width="9.33333333" height="20"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

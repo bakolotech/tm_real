@@ -1,0 +1,398 @@
+/* Styles for wrapping the search box */
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.slider-wrap {
+    position: relative;
+    overflow: hidden;
+    height: 350px;
+    top: 0px;
+}
+
+.slider-main {
+    position: absolute;
+    width: 3000px;
+    height: 171PX;
+}
+
+.slider-main2 {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    display: table;
+}
+
+.item {
+    width: 275px;
+    Height: 171px;
+    display: inline-block;
+    background: #D8D8D8;
+    position: relative;
+    border-radius: 6px;
+    margin: 4px;
+}
+
+.item2 {
+    width: 400px;
+    Height: 100px;
+    display: inline-block;
+    background: #D8D8D8;
+    position: relative;
+    border-radius: 6px;
+    margin: 4px;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: red;
+    font-weight: bolder;
+}
+
+.btn-area {
+    position: absolute;
+    bottom: 6px;
+    left: 50%;
+}
+
+.slider-btn {
+    border: none;
+    outline: none;
+    font-size: 30px;
+    transition: 0.4s;
+    border-radius: 50px;
+    z-index: 3;
+}
+
+.slider-btn:hover {
+    background: #fff;
+}
+
+.carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+}
+
+.miniature {
+    height: 171px;
+    width: 100%;
+    border-radius: 6px;
+    border-style: groove;
+}
+
+.banner {
+    width: 513px;
+    Height: 136px;
+    position: absolute;
+    display: table-cell;
+}
+
+/* .btn-pub {
+    border-radius: 60px;
+    Height: 5px;
+    width: 20px;
+    color: rgb(64, 204, 214);
+} */
+
+.cercle {
+    width: 8px;
+    height: 8px;
+    border-radius: 20px;
+    background: rgb(69, 220, 247);
+    display: inline-block;
+    margin: 8px;
+    margin-top: 18px;
+}
+
+
+/* #cercle {
+    width: 20px;
+    height: 6px;
+    border-radius: 20px;
+    background: rgb(0, 30, 128);
+    display: inline-block;
+} */
+
+.cercle:hover {
+    width: 33px;
+    height: 7px;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgb(0, 30, 128);
+}
+
+.slick-paginate-btn {
+    position: relative;
+}
+
+.arrow-to-left {
+    top: 0;
+}
+
+.arrow-to-right {
+    top: 0;
+}
+
+.product {
+    margin: 30.48px;
+}
+
+.slick-slide {
+    min-height: 100px !important;
+}
+
+.slick-arrow {
+    display: none !important;
+}
+
+
+.mask {
+    cursor: pointer;
+    /* width: 25%; */
+    border-radius: 6px;
+    background-color: #D8D8D8;
+    margin: 0 5px;
+    margin-top: 10px;
+    width: 276px !important;
+
+
+  }
+
+  .mask2 {
+    cursor: pointer;
+    /* width: 25%; */
+    border-radius: 6px;
+    background-color: #D8D8D8;
+    margin: 0 5px;
+    margin-top: 10px;
+    width: 276px !important;
+
+
+  }
+
+  .sliderm{
+      display: flex;
+      margin-top: 10px;
+  }
+
+  .sliderm2{
+
+    display: flex;
+    margin-top: -3%;
+
+}
+
+.text-nav{
+    height: 14px;
+    width: 109px;
+    color: #191970;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 14px;
+}
+
+  .text_cat{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 7px;
+    margin-bottom: -15px;
+    font-family: 'Roboto';
+    margin-top: 0;
+    background-color: white;
+
+
+
+  }
+  .border-nav{
+    display: flex !important;
+    justify-content: space-around;
+    padding: 0;
+    width: 90%;
+    border-left: solid 1px;
+    margin: 5px;
+}
+
+
+.prev-nav{
+    border-right: solid 1px;
+    margin: 1px;
+    display: flex !important;
+  }
+
+  .next{
+
+    position: relative;
+    left: 96.5%;
+    top: -122px;
+    height: 55px;
+    width: 55px;
+
+  }
+
+
+
+.arrow_left{
+  background: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  box-shadow: 0 0 2px 0 rgb(0 0 0 / 50%);
+  line-height: 38px;
+  top: -2px;
+  position: relative;
+  padding: 0.5px;
+
+}
+
+.arrow_left1{
+    background: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    box-shadow: 0 0 2px 0 rgb(0 0 0 / 50%);
+    line-height: 38px;
+    top: -2px;
+    position: relative;
+    padding: 0.5px;
+
+  }
+
+.arrow_right{
+    background: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  box-shadow: 0 0 2px 0 rgb(0 0 0 / 50%);
+  padding: 0.5px;
+}
+
+.arrow_right1{
+    background: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  box-shadow: 0 0 2px 0 rgb(0 0 0 / 50%);
+  padding: 0.5px;
+}
+
+.owl-prev1{
+    background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0px !important;
+    position: relative;
+    top: -148px;
+    right: 2.2%;
+}
+
+.owl-prev2{
+    background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0px !important;
+    font: inherit;
+    position: relative;
+    left: -1.9%;
+    bottom: 145px;
+
+    }
+
+    .owl-next2{
+        background: 0 0;
+        color: inherit;
+        border: none;
+        padding: 0px!important;
+        font: inherit;
+        right: -95%;
+        bottom: 145px;
+
+        margin-top: 0px;
+        position: relative;
+        left: 96%;
+        }
+        .owl-next1{
+            background: 0 0;
+            color: inherit;
+            border: none;
+            padding: 0px!important;
+            font: inherit;
+            right: -90%;
+            bottom: 145px;
+
+            position: relative;
+            left: 96%;
+        }
+
+
+.owl-next{
+    background: 0 0;
+        color: inherit;
+        border: none;
+        padding: 0px!important;
+        font: inherit;
+        right: -95%;
+        bottom: 145px;
+        margin-block-end: 100%;
+        margin-top: 0px;
+        position: relative;
+        left: 95%;
+    }
+    .owl-prev{
+        background: 0 0;
+        color: inherit;
+        border: none;
+        padding: 0px !important;
+        font: inherit;
+        position: relative;
+        left: -1.5%;
+        bottom: 145px;
+        margin-block-end: 100%;
+
+
+    }
+
+
+
+.taille{
+    font-size: 30px;
+    margin-top: 7px;
+    color: #1A7EF5 !important
+}
+
+.taille2{
+    font-size: 30px;
+    margin-top: 7px;
+    color: #1A7EF5 !important;
+}
+
+

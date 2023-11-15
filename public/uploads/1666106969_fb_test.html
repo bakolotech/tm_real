@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Your Website Title</title>
+<!-- You can use Open Graph tags to customize link previews.
+Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+<meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="Toule market" />
+<meta property="og:description"   content="Votre site de la gloire" />
+<meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+</head>
+<body>
+
+<!-- Load Facebook SDK for JavaScript -->
+<!-- <a href="http://twitter.com/share?text=text goes here&url=http://url goes here&hashtags=hashtag1,hashtag2,hashtag3">Share</a> -->
+<div class="fb-share-button" data-href="http://127.0.0.1:8000/boutique_personnel?boutique=137" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F127.0.0.1%3A8000%2Fboutique_personnel%3Fboutique%3D137&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Partager</a></div>
+
+<div id="fbs-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your share button code -->
+<div class="fb-share-button" 
+data-href="https://www.your-domain.com/your-page.html" 
+data-layout="button_count">
+</div>
+
+</body>
+</html>

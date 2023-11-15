@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DK</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-43.000000, -181.000000)">
+            <g id="DK" transform="translate(43.500000, 181.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="27.5" height="19.5" rx="2"></rect>
+                        <path d="M0,12 L8,12 L8,20 L1.99124431,20 C0.891510444,20 0,19.1017876 0,18.0092049 L0,12 Z M28,12 L28,18.0092049 C28,19.1086907 27.1001025,20 26.0087557,20 L12,20 L12,12 L28,12 Z M26.0087557,0 C27.1084896,0 28,0.898212381 28,1.99079514 L28,8 L12,8 L12,0 L26.0087557,0 Z M8,8 L0,8 L0,1.99079514 C0,0.891309342 0.899897516,0 1.99124431,0 L8,0 L8,8 Z" id="Combined-Shape" stroke="none" fill="#EF264D" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

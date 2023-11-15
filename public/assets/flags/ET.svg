@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ET</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-331.000000, -229.000000)">
+            <g id="ET" transform="translate(331.500000, 229.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-2" stroke="none" fill="#20AA46" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="6.66666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#E92F3B" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="13.3333333" width="28" height="6.66666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#FADF50" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="6.66666667" width="28" height="6.66666667"></rect>
+                        <circle id="Oval-95" stroke="none" fill="#205CCA" fill-rule="evenodd" mask="url(#mask-4)" cx="14" cy="10" r="4.66666667"></circle>
+                        <path d="M14,7.71631086 L14.5235044,9.27945808 L16.1719174,9.29430125 L14.8470478,10.2752225 L15.3423188,11.8475433 L14,10.8906388 L12.6576812,11.8475433 L13.1529522,10.2752225 L11.8280826,9.29430125 L13.4764956,9.27945808 L14,7.71631086 Z" id="Star-8" stroke="#FFDB3D" stroke-width="0.666666667" fill="none" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

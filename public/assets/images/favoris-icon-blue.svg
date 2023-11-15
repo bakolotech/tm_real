@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8FC44BD8-7997-4C15-B002-A64083855101</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="14" height="14"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page-/-Profil_Connecté" transform="translate(-1122.000000, -231.000000)">
+            <g id="basic-/-heart_fill" transform="translate(1122.000000, 231.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="basic-/-heart_fill-(Background/Mask)"></g>
+                <path d="M1.16666667,4.89713895 C1.16666667,3.13474131 2.57833338,1.75 4.375,1.75 C5.39000001,1.75 6.36416665,2.18424162 7,2.91666667 C7.63583335,2.18424162 8.60999999,1.75 9.625,1.75 C11.4216666,1.75 12.8333333,3.13474131 12.8333333,4.89713895 C12.8333333,8.02139103 9.11246157,10.3779026 7,12.25 C4.89219099,10.3677659 1.16666667,8.0265063 1.16666667,4.89713895 Z" fill="#191970" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

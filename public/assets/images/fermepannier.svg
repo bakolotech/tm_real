@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BB9762F3-8F11-4923-903B-7DDA1F35D676</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Profil-/-Carnet-d'adresse-/-Validation" transform="translate(-708.000000, -351.000000)">
+            <g id="Icons/edit-off-Copy" transform="translate(708.000000, 351.000000)">
+                <circle id="Cercle-de-survole-icone-Copy" fill="#F5F5F5" cx="10" cy="10" r="10"></circle>
+                <g id="Icons/Fermé-Copy" transform="translate(3.333333, 3.333333)" fill="#000000">
+                    <g id="Glyphs-/-Bar-Button-/-Stop-/-Dark" transform="translate(3.293651, 3.492063)">
+                        <polygon id="stop" points="6.3265873 -3.96825397e-05 3.37698413 2.95789683 0.417460317 0.00392857143 4.4408921e-16 0.409087302 4.4408921e-16 0.414246032 2.96190476 3.37416667 0.0206349206 6.32496032 0.411111111 6.74599206 0.417460317 6.74599206 3.3702381 3.78170635 6.3218254 6.7309127 6.74642857 6.32615079 6.74642857 6.32138889 3.78531746 3.36503968 6.73055556 0.407896825 6.33333333 -3.96825397e-05"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>OM</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-43.000000, -708.000000)">
+            <g id="OM" transform="translate(43.500000, 708.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-0.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="27.5" height="19.5" rx="2"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#138E16" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="13.3333333" width="28" height="6.66666667"></rect>
+                        <polygon id="Rectangle-2" stroke="none" fill="#ED2B35" fill-rule="evenodd" mask="url(#mask-4)" points="0 20 9.33333333 20 9.33333333 13.3333333 28 13.3333333 28 6.66666667 9.33333333 6.66666667 9.33333333 0 0 0"></polygon>
+                        <polygon id="Star-32" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" points="4.66666667 4.71175799 3.50964336 6.40258365 4.11019186 4.44377385 2.0668589 4.59338916 3.97275393 3.84161895 2.58178271 2.33736053 4.35784645 3.35872821 4.66666667 1.33333333 4.97548689 3.35872821 6.75155062 2.33736053 5.3605794 3.84161895 7.26647443 4.59338916 5.22314147 4.44377385 5.82368997 6.40258365"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

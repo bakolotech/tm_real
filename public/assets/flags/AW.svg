@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AW</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+        <rect id="path-5" x="0" y="0" width="28" height="20"></rect>
+        <filter x="-7.1%" y="-5.0%" width="114.3%" height="120.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-715.000000, -37.000000)">
+            <g id="AW" transform="translate(715.500000, 37.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-1.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="Mask-Copy" stroke="none" fill="none" mask="url(#mask-4)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#4189DD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <path d="M7.25881494,2.74294567 L6.65431725,4.66666667 L7.25881494,6.59038766 L5.33509394,5.98588997 L3.41137295,6.59038766 L4.01587064,4.66666667 L3.41137295,2.74294567 L5.33509394,3.34744336 L7.25881494,2.74294567 Z" id="Star-2" stroke="#FFFFFF" stroke-width="0.666666667" fill="#D21034" fill-rule="evenodd" mask="url(#mask-4)" transform="translate(5.335094, 4.666667) rotate(-225.000000) translate(-5.335094, -4.666667) "></path>
+                        <rect id="Rectangle-1223" stroke="none" fill="#F9D616" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="14.6666667" width="28" height="1.33333333"></rect>
+                        <rect id="Rectangle-1223" stroke="none" fill="#F9D616" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="12" width="28" height="1.33333333"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

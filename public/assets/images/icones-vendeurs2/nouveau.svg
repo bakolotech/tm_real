@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="25px" viewBox="0 0 64 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4425CE6D-83C4-4085-8075-F93370D23DC9</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marchand-/-Apperçu_de_lannonce" transform="translate(-300.000000, -234.000000)">
+            <g id="Group" transform="translate(153.000000, 220.000000)">
+                <g id="NOUVEAUTÉ" transform="translate(147.000000, 14.500000)">
+                    <rect id="Rectangle" stroke="#D0021B" fill="#FFFFFF" x="0.5" y="0.5" width="63" height="23" rx="3"></rect>
+                    <text id="Nouveauté" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#D0021B">
+                        <tspan x="5" y="15.5">Nouveauté</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

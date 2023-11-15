@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>GH</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-331.000000, -325.000000)">
+            <g id="GH" transform="translate(331.500000, 325.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-2" stroke="none" fill="#E71F37" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="6.66666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#118B56" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="13.3333333" width="28" height="6.66666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#FDD64C" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="6.66666667" width="28" height="6.66666667"></rect>
+                        <polygon id="Star-53" stroke="none" fill="#262626" fill-rule="evenodd" mask="url(#mask-4)" points="14 11.6116938 12.0407158 13.0300566 12.784207 10.7283684 10.8298116 9.30327669 13.2485986 9.29911801 14 7 14.7514014 9.29911801 17.1701884 9.30327669 15.215793 10.7283684 15.9592842 13.0300566"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

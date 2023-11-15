@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9394DC38-76F1-424E-8C48-4D02F4CDAEF4</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Formulaire_de_vente" transform="translate(-427.000000, -2385.000000)" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(76.000000, 1954.000000)">
+                <g id="Group-5" transform="translate(0.000000, 401.000000)">
+                    <g id="Icons/Cancel" transform="translate(351.000000, 30.000000)">
+                        <path d="M24,12 C24,18.627 18.627,24 12,24 C5.373,24 0,18.627 0,12 C0,5.373 5.373,0 12,0 C18.627,0 24,5.373 24,12 Z" id="Path" fill="#D0021B"></path>
+                        <polygon id="Path" fill="#FFFFFF" points="15.3936 6.9096 17.0904 8.6064 8.6064 17.0904 6.9096 15.3936"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" points="17.0904 15.3936 15.3936 17.0904 6.9096 8.6064 8.6064 6.9096"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

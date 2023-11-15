@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>corbeille</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Marchand-/-Mes_Commandes-/-Détails" transform="translate(-1180.000000, -190.000000)" stroke="#9B9B9B">
+            <g id="Head" transform="translate(119.000000, 176.000000)">
+                <g id="Zone-menu" transform="translate(329.000000, 0.000000)">
+                    <g id="Group-9-Copy" transform="translate(717.500000, 6.000000)">
+                        <g id="corbeille" transform="translate(15.500000, 8.500000)">
+                            <line x1="0" y1="2.35839871" x2="17" y2="2.35839871" id="Path"></line>
+                            <path d="M10.8460549,21 L6.15394351,21 C4.72029732,21.0046747 3.49275078,19.9898419 3.24992303,18.5991826 L1.03433933,5.61615221 L15.9656638,5.61615221 L13.7500754,18.5991826 C13.5072488,19.9898426 12.2797016,21.004676 10.8460549,21 L10.8460549,21 Z" id="Path"></path>
+                            <path d="M6.0829337,2.35839871 C6.09444601,1.05259393 7.17322429,0 8.5,0 C9.82677571,0 10.905554,1.05259393 10.9170663,2.35839871" id="Path"></path>
+                            <line x1="5.36681594" y1="8.10935522" x2="6.16379439" y2="17.540798" id="Path"></line>
+                            <line x1="8.5" y1="8.10935522" x2="8.5" y2="17.540798" id="Path"></line>
+                            <line x1="11.6331841" y1="8.10935522" x2="10.836204" y2="17.540798" id="Path"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

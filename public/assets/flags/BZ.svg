@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BZ</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-427.000000, -85.000000)">
+            <g id="BZ" transform="translate(427.500000, 85.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-2-Copy-4" stroke="none" fill="#094995" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="2.66666667" width="28" height="14.6666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#D5182F" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="2.66666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#D5182F" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="17.3333333" width="28" height="2.66666667"></rect>
+                        <circle id="Oval-12" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" cx="14" cy="10" r="6"></circle>
+                        <path d="M14,14 C16.209139,14 18,12.209139 18,10 C18,7.790861 16.209139,6 14,6 C11.790861,6 10,7.790861 10,10 C10,12.209139 11.790861,14 14,14 Z" id="Oval-73" stroke="#118014" stroke-width="1.33333333" fill="none" stroke-linecap="round" stroke-dasharray="0.6666666666666666,2" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

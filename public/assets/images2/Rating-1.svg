@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="15px" viewBox="0 0 80 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F447A926-5C99-4C95-874B-EE9211A02DE4</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-34.000000, -453.000000)">
+            <g id="Rating" transform="translate(34.000000, 453.000000)">
+                <polygon id="#5" fill="#E4E4E4" points="72 12.0552632 76.944 15 75.632 9.45 80 5.71578947 74.248 5.23421053 72 0 69.752 5.23421053 64 5.71578947 68.368 9.45 67.056 15"></polygon>
+                <polygon id="#4" fill="#E4E4E4" points="56 12.0552632 60.944 15 59.632 9.45 64 5.71578947 58.248 5.23421053 56 0 53.752 5.23421053 48 5.71578947 52.368 9.45 51.056 15"></polygon>
+                <polygon id="#3" fill="#FF9017" points="40 12.0552632 44.944 15 43.632 9.45 48 5.71578947 42.248 5.23421053 40 0 37.752 5.23421053 32 5.71578947 36.368 9.45 35.056 15"></polygon>
+                <polygon id="#2" fill="#FF9017" points="24 12.0552632 28.944 15 27.632 9.45 32 5.71578947 26.248 5.23421053 24 0 21.752 5.23421053 16 5.71578947 20.368 9.45 19.056 15"></polygon>
+                <polygon id="#1" fill="#FF9017" points="8 12.0552632 12.944 15 11.632 9.45 16 5.71578947 10.248 5.23421053 8 0 5.752 5.23421053 0 5.71578947 4.368 9.45 3.056 15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

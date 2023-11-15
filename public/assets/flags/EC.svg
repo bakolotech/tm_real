@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EC</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-43.000000, -229.000000)">
+            <g id="EC" transform="translate(43.500000, 229.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-2" stroke="none" fill="#0748AE" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="9.33333333" width="28" height="5.33333333"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#DE2035" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="14.6666667" width="28" height="5.33333333"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#FFD935" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="9.33333333"></rect>
+                        <path d="M15.6006443,8.000445 C16.2479827,8.48698468 16.6666667,9.26134267 16.6666667,10.1334895 C16.6666667,11.6062489 15.4727593,12.8001562 14,12.8001562 C12.5272407,12.8001562 11.3333333,11.6062489 11.3333333,10.1334895 C11.3333333,9.26151966 11.7518473,8.48729898 12.3989616,8.00074125 L13.3333333,10.8001562 L14.6666667,10.8001562 Z" id="Oval-12" stroke="none" fill="#FFD935" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <polygon id="Rectangle-483" stroke="none" fill="#5FC0DC" fill-rule="evenodd" mask="url(#mask-4)" points="14 7.33333333 14.6666667 10.6666667 13.3333333 10.6666667"></polygon>
+                        <polyline id="Line" stroke="#3F2821" stroke-width="0.666666667" fill="none" opacity="0.66" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)" points="17.3333333 6 15.3333333 5.33333333 14 6.66666667 12.6666667 5.33333333 10.6666667 6"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

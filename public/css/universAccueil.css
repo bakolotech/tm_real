@@ -1,0 +1,133 @@
+input{
+    border:none;
+    background-color: transparent;
+  }
+
+  input:focus,
+  select:focus,
+  textarea:focus,
+  button:focus {
+      outline: none;
+  }
+
+  .fa-user-circle-o{
+    color: gray;
+  }
+
+
+  .rectangle {
+    box-sizing: border-box;
+    height: 33px;
+    width: 634px;
+    border: 1px solid #9B9B9B;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    margin-left: 439px;
+
+    padding-left:30px;
+
+  }
+
+  .search {
+  height: 17.33px;
+  width: 16.69px;
+  background-color: #C7C7CC;
+
+  margin-right: 1000px;
+}
+
+.commencez-votre-rech {
+    height: 18px;
+    width: 193px;
+    color: #4A4A4A;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: -0.36px;
+    line-height: 18px;
+  }
+
+  .maskpubAccueil {
+    height: 136px;
+    width: 360px;
+    border-radius: 6px;
+    background-color: #D8D8D8;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-right: 0px;
+
+
+
+  }
+
+  .maskpubAccueil1 {
+
+    text-align: center;
+  }
+
+.maskunivers {
+    height: 171px;
+    width: 270px;
+    border-radius: 15px;
+    background-color: #D8D8D8;
+    margin-top: 40px;
+    margin-left: 4px;
+    display: inline-block;
+
+  }
+
+  .maskunivers1 {
+    text-align: center;
+
+  }
+
+
+
+      html {
+      font-size: 50%;
+      }
+      body {
+      box-sizing: border-box;
+      }
+
+      .container{
+        width: 25rem;
+        height: 100%;
+        margin: 0 1rem;
+        position: relative;
+      }
+
+      h2 {
+        margin: 2rem;
+        font-size: 20px;
+      }
+      .bar {
+
+      width: 100px;
+      height: 200px;
+
+
+
+      }
+      .searchbar:hover {
+      width: 27rem;
+      height: 6rem;
+      }
+      .button {
+      height: 2rem;
+      position: absolute;
+      top: 1.5rem;
+      right: 1rem;
+      transition: all .1s;
+      transition-delay: .1s;
+      }
+      .button:hover {
+      cursor: pointer;
+      }
+      .searchbar:hover + .button {
+      height: 2.5rem;
+      top: 1.8rem;
+      right: 0;
+      }
+      .searchbar::placeholder {
+      opacity: .3;
+      }

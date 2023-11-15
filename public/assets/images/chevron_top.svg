@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA4401F8-9862-44B3-8D4D-ED9E90759455</title>
+    <defs>
+        <polygon id="path-1" points="8.59997559 7.4 9.99997559 6 15.9999756 12 9.99997559 18 8.59997559 16.6 13.1999756 12"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-235.000000, -432.000000)">
+            <g id="Icons/ic_chevron_right" transform="translate(235.000000, 432.000000)">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#000000" xlink:href="#path-1"></use>
+                <g id="🌈Color" mask="url(#mask-2)" fill="#9E9E9E" fill-rule="nonzero">
+                    <rect id="Rectangle-path-Copy-23" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

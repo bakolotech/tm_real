@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>IS</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-283.000000, -421.000000)">
+            <g id="IS" transform="translate(283.500000, 421.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Mask-Copy" stroke="none" fill="#0E4CB5" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="20"></rect>
+                        <polygon id="Rectangle-2" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" points="0 12 8 12 8 20 12 20 12 12 28 12 28 8 12 8 12 0 8 0 8 8 0 8"></polygon>
+                        <polygon id="Rectangle-2" stroke="none" fill="#EB363A" fill-rule="evenodd" mask="url(#mask-4)" points="0 10.6666667 9.33333333 10.6666667 9.33333333 20 10.6666667 20 10.6666667 10.6666667 28 10.6666667 28 9.33333333 10.6666667 9.33333333 10.6666667 0 9.33333333 0 9.33333333 9.33333333 0 9.33333333"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

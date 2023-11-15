@@ -1,0 +1,128 @@
+
+.grand-etagere-helper-function {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    justify-content: flex-end
+}
+
+
+.prod_container_bis {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    grid-row-gap: 0px;
+    display: grid !important;
+    grid-template-rows: 0px 1fr 1fr 1fr 1fr 1fr 7.5%;
+    grid-row-gap: 0px !important;
+}
+
+.prod_container_bis_tv {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    grid-row-gap: 0px;
+    display: grid !important;
+    grid-template-rows: 1fr 1fr 1fr  36px;
+    grid-row-gap: 0px !important;
+}
+
+.line_0 {
+    width: 96.8%;
+    background-color: #f9f9f9;;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 6px;
+    z-index: 1000
+}
+
+.line_1 {
+    width: 96.8%;
+    background: url('/storage/etagere_decouper_webp/Ligne01.webp');
+    background-size: 102% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.line_2 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne02.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_3 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne03.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_4 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne04.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_5 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne05.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_6 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne06.webp');
+    background-size: 100% 100%;
+}
+
+.line_6 {
+    width: 100%;
+    background: url('/storage/etagere_decouper_webp/Ligne06.webp');
+    background-size: 100% 100%;
+}
+
+.line_1_tv {
+    width: 97.8%;
+    background: url('/storage/etagere_decouper_tv_webp/Ligne1.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: auto;
+}
+
+.line_2_tv {
+    width: 100%;
+    background: url('/storage/etagere_decouper_tv_webp/Ligne2.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_3_tv {
+    width: 100%;
+    background: url('/storage/etagere_decouper_tv_webp/Ligne3.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.line_4_tv {
+    width: 100%;
+    background: url('/storage/etagere_decouper_tv_webp/Ligne4.webp');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.open-seach-field {
+    opacity: 1 !important;
+    display: block !important;
+}
+
+.opacity-element {
+    opacity: 1 !important;
+}

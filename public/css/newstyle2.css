@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital@1&family=Licorice&family=Noto+Sans&family=Roboto:wght@300;400&family=Tajawal:wght@300&display=swap');
+
+
+.close-btn{
+    width: 24px;
+    height: 24px;
+    background-image: url('assets/images2/close.svg') !important;
+	background-size:  24px;
+    background-repeat: no-repeat;
+    border: 1px solid #fff;
+    background-color: #1A7EF5;
+    opacity: 1;
+	border-radius: 50%;
+    position: absolute;
+    top: -21px;
+    right: -9px;
+}
+
+
+.close-btn:hover {
+	opacity: 1 !important;
+}
+
+
+.modal-footer1 {
+	position: relative;
+	height: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	top: -7px;
+    padding: 0px;
+}
+
+.auth-header {
+	text-align: center;
+	margin-top: 9px;
+}
+
+.auth-text {
+	height: 48px;
+	width: 393px;
+	color: #191970;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: -0.34px;
+	line-height: 18px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.vous-avez-oublie-vot {
+  height: 24px;
+  width: 361px;
+ color: #191970;
+ font-family: Roboto;
+ font-size: 21px;
+ font-weight: 500;
+ letter-spacing: 0;
+ line-height: 23px;
+ margin-bottom: 5px;
+ text-align: center;
+ position: relative;
+ margin-left: auto;
+ margin-right: auto;
+ left: 13px;
+}
+
+.btn-bottom {
+	width: 200px;
+}
+
+.modal-header {
+	text-align: center;
+}
+
+.modal-dialog {
+	 height: 295px;
+	 width: 432px;
+	 border-radius: 6px;
+	 background-color: #FFFFFF;
+	 box-shadow: 0 5px 15px 0 rgba(0,0,0,0.35);
+	 display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	top: 120px;
+}
+
+.annuler {
+	width: 150px;
+	color: #1A7EF5;
+	border: 1px solid #1A7EF5;
+	background-color: #fff;
+	margin-right: 14px;
+}
+
+.annuler:hover {
+	color: #1A7EF5;
+	background-color: #fff;
+	border: 1px solid #1A7EF5;
+}
+
+.renvoyer {
+	width: 150px;
+}
+
+.btn-close:active {
+	background-color: #2C3EDD;
+}
+
+.modal-header {
+	border-top:  none;
+}
+
+@media only screen and (max-width:  600px) {
+	.modal-dialog {
+		position: relative;
+		left: 30px;
+	}
+}

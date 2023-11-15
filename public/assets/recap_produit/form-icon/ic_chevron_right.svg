@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2CBDF3FF-D38E-468D-9307-7E0D6A32657F</title>
+    <defs>
+        <polygon id="path-1" points="8.59997559 7.4 9.99997559 6 15.9999756 12 9.99997559 18 8.59997559 16.6 13.1999756 12"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page-/-Récapitulatif_Produits-/-Modification_Produits" transform="translate(-974.000000, -330.000000)">
+            <g id="Group" transform="translate(89.000000, 128.000000)">
+                <g id="Group-6" transform="translate(515.500000, 171.000000)">
+                    <g id="Icons/ic_chevron_right-Copy" transform="translate(382.000000, 43.500000) rotate(-270.000000) translate(-382.000000, -43.500000) translate(370.000000, 31.500000)">
+                        <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#4A4A4A" xlink:href="#path-1"></use>
+                        <g id="🌈Color" mask="url(#mask-2)" fill="#4A4A4A" fill-rule="nonzero">
+                            <rect id="Rectangle-path-Copy-23" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

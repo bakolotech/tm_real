@@ -1,0 +1,58 @@
+hope.technologies.boma@gmail.com
+6qWXmQKEj70PaRwsjlyH
+08bbb7 = turquoise
+
+liomoukagni@gmail.com etablissement privée
+ONTJck0my7vJLD94VpVl
+
+
+bobemane@yoliza.com public
+karl1234
+
+
+hello@e.italki.com  eleve privée
+1KqkJHDB1NjMQFzWgKng
+
+helenekefi@hotmail.fr gestionnaire
+9ByVjgQzFILsA1z4Fsrz
+
+
+id contenu VFZsXS6AgdBnCriW7l7E
+
+SI ON DORS ON PERT
+
+JE REALISE QU'IL Y UN SEUL PUISSANT ASSIS SUR LE TRONE
+SI IL DECIDE TOUT CELA NE VALEUR SERVIR 0 RIEN
+
+JESUS MON JILLET PARABALL
+
+waves globuldud
+
+ambassadrisse de la beauté africain,
+Angélique, tu as la beauté des anges
+
+const url = window.location.href;
+        const lastParam = url.split("/").slice(-1)[0];
+
+      let result = lastParam.replace('qcmpreview?data=', '')
+      console.log(result)
+
+newUser.emailVerified
+
+db2.auth().signInWithEmailAndPassword(this.connection.login, this.connection.passwd);
+				
+				this.connection.login = '';
+				this.connection.passwd = '';
+
+				db2.auth().onAuthStateChanged(newUser => {
+						if (newUser.emailVerified == true) {
+							this.$store.commit('setCurrentUser', newUser)
+							this.$router.replace({ name: "listCours01" });
+							console.log('Gloire à Dieu grand succès')
+						}
+
+						if (newUser.emailVerified == false) {
+							console.log('Email non verifié')
+						}
+					// }
+				})

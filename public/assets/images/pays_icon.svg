@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="23px" viewBox="0 0 29 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C6CAF566-A50D-416C-BF63-0C08832DAA14</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="22" rx="2"></rect>
+        <filter x="-19.6%" y="-15.9%" width="139.3%" height="150.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="32" height="24"></rect>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="2.42052023%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-9" x="0" y="0" width="28" height="22" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-609.000000, -142.000000)">
+            <rect id="Rectangle" fill="#AAAAAA" x="0" y="0" width="2975" height="1246"></rect>
+            <g id="Bouton/Selection_Region" transform="translate(603.000000, 133.000000)">
+                <path d="M40.5,0.5 L40.5,40.5 L6,40.5 C4.48121694,40.5 3.10621694,39.8843915 2.1109127,38.8890873 C1.11560847,37.8937831 0.5,36.5187831 0.5,35 L0.5,35 L0.5,6 C0.5,4.48121694 1.11560847,3.10621694 2.1109127,2.1109127 C3.10621694,1.11560847 4.48121694,0.5 6,0.5 L6,0.5 L40.5,0.5 Z" id="Rectangle-Copy-69" stroke="#9B9B9B" fill="#F8F8F8"></path>
+                <g id="flags/L/GA---Gabon" transform="translate(11.000000, 11.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g id="GA" mask="url(#mask-2)">
+                        <g transform="translate(-4.500000, -1.500000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="drop-shadow" stroke="none" fill="none" fill-opacity="1">
+                                <use fill="black" filter="url(#filter-5)" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="country" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                                <g transform="translate(-2.000000, -1.000000)" id="flag">
+                                    <mask id="mask-7" fill="white">
+                                        <use xlink:href="#path-6"></use>
+                                    </mask>
+                                    <g id="mask"></g>
+                                    <g id="contents" mask="url(#mask-7)">
+                                        <polygon id="bottom" fill="#40A8FF" points="0 16 32 16 32 24 0 24"></polygon>
+                                        <polygon id="middle" fill="#FECA00" points="0 8 32 8 32 16 0 16"></polygon>
+                                        <polygon id="middle" fill="#73BE4A" points="0 0 32 0 32 8 0 8"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="overlay" stroke="none" fill="none" mask="url(#mask-4)">
+                                <use fill="url(#linearGradient-8)" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-9"></use>
+                                <rect stroke-opacity="0.1" stroke="#000000" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="27" height="21" rx="2"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

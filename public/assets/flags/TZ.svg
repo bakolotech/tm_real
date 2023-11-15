@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TZ</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-43.000000, -949.000000)">
+            <g id="TZ" transform="translate(43.500000, 949.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <polygon id="Rectangle-2" stroke="none" fill="#33CC4D" fill-rule="evenodd" mask="url(#mask-4)" points="0 13.3333333 28 0 0 0"></polygon>
+                        <polygon id="Rectangle-2" stroke="none" fill="#2DAFE4" fill-rule="evenodd" mask="url(#mask-4)" points="0 20 28 20 28 6.66666667"></polygon>
+                        <polygon id="Rectangle-2" stroke="none" fill="#FFD84F" fill-rule="evenodd" mask="url(#mask-4)" points="3.08238507 22.6666972 30.1707194 5.74002727 24.9176149 -2.66669718 -2.17071939 14.2599727"></polygon>
+                        <polygon id="Rectangle-2" stroke="none" fill="#262626" fill-rule="evenodd" mask="url(#mask-4)" points="-0.629198978 23.0719328 32.1619941 2.58172121 28.629199 -3.07193276 -4.16199407 17.4182788"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

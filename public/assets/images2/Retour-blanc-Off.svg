@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FEBA4034-479B-423D-A3D0-DFB8F5FE276D</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.290222 0 0 0 0 0.290175 0 0 0 0 0.290237 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Boutique-/-Présentoire/Voir_Produit" transform="translate(-9.000000, -104.000000)">
+            <g id="Icons/Retour-blanc-Off" transform="translate(9.000000, 104.000000)">
+                <rect id="Rectangle-Copy-30" fill="#FFFFFF" x="0" y="0" width="42" height="42" rx="21"></rect>
+                <g filter="url(#filter-1)" id="back-button-copy-2">
+                    <g transform="translate(10.000000, 10.000000)">
+                        <path d="M10.9576,21.9151 C16.9995,21.9151 21.9149,16.9995 21.9149,10.9575 C21.9149,4.9156 16.9995,0 10.9576,0 C4.9157,0 0.0002,4.9156 0.0002,10.9575 C0.0002,16.9995 4.9157,21.9151 10.9576,21.9151 Z M10.9576,1.5 C16.1724,1.5 20.415,5.7426 20.415,10.9575 C20.415,16.1724 16.1725,20.4151 10.9576,20.4151 C5.7428,20.4151 1.5003,16.1724 1.5003,10.9574 C1.5003,5.7427 5.7428,1.5 10.9576,1.5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M9.4861,15.6507 C9.779,15.9435 10.2539,15.9434 10.5467,15.6507 C10.8397,15.3577 10.8397,14.8829 10.5466,14.5899 L7.6646,11.708 L16.0103,11.7072 C16.4245,11.7071 16.7602,11.3714 16.7602,10.957 C16.7602,10.5428 16.4244,10.2072 16.0102,10.2072 L7.6642,10.208 L10.5469,7.3255 C10.8398,7.0326 10.8398,6.5576 10.5469,6.2648 C10.4004,6.1184 10.2085,6.0451 10.0165,6.0451 C9.8246,6.0451 9.6327,6.1184 9.4862,6.2647 L5.3233,10.4275 C5.1826,10.5681 5.1036,10.7588 5.1036,10.9578 C5.1036,11.1568 5.1827,11.3474 5.3234,11.4883 L9.4861,15.6507 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

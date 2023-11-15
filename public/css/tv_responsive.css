@@ -1,0 +1,62 @@
+@media screen and (min-width: 1920px)  {
+
+    .etagere_parent_zone_tv {
+        height: 87%;
+    }
+
+    .etagere_bottom_monitor_tv {
+        height: 13%;
+    }
+
+    .tv_third_line {
+        height: 31.5% !important;
+    }
+
+    .tv_second_line {
+        height: 32.5% !important;
+    }
+
+}
+
+/* écran moyen  */
+@media  screen and (min-width: 1367px) and (max-width: 1919px) {
+
+    .etagere_parent_zone_tv {
+        height: 91%;
+    }
+
+    .tv_third_line {
+        height: 32% !important;
+    }
+
+    .tv_second_line {
+        height: 33.3% !important;
+    }
+
+    .etagere_bottom_monitor_tv {
+        height: 10%;
+    }
+
+}
+
+/* plus petit écran  */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+    .etagere_bottom_monitor_tv {
+        height: 12%;
+    }
+
+    .tv_second_line {
+        height: 33.8%;
+    }
+
+    .tv_third_line {
+        height: 34%;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .etagere_bottom_monitor_tv {
+        height: 14%;
+        width: 100%;
+    }
+}

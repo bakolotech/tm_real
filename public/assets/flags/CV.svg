@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CV</title>
+    <defs>
+        <circle id="path-1" cx="9.5" cy="9.5" r="9.5"></circle>
+        <rect id="path-3" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets-3---Drapeaux" transform="translate(-571.000000, -133.000000)">
+            <g id="CV" transform="translate(571.500000, 133.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-4.500000, -0.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect id="Rectangle-2" stroke="none" fill="#0C49AE" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="0" width="28" height="10.6666667"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#0C49AE" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="14.6666667" width="28" height="5.33333333"></rect>
+                        <rect id="Rectangle-2" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="10.6666667" width="28" height="4"></rect>
+                        <rect id="Rectangle-2-Copy-4" stroke="none" fill="#CD232E" fill-rule="evenodd" mask="url(#mask-4)" x="0" y="12" width="28" height="1.33333333"></rect>
+                        <path d="M10.6666667,16.6666667 C12.8758057,16.6666667 14.6666667,14.8758057 14.6666667,12.6666667 C14.6666667,10.4575277 12.8758057,8.66666667 10.6666667,8.66666667 C8.45752767,8.66666667 6.66666667,10.4575277 6.66666667,12.6666667 C6.66666667,14.8758057 8.45752767,16.6666667 10.6666667,16.6666667 Z" id="Oval-73" stroke="#F7D035" stroke-width="1.33333333" fill="none" stroke-linecap="round" stroke-dasharray="0.6666666666666666,2" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

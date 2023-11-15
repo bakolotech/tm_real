@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A12B56A8-2316-4F14-BDE6-265F08474ABD</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pannier-/-Échec-de-paiement" transform="translate(-838.000000, -311.000000)" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(270.000000, 286.000000)">
+                <g id="Icons/Cancel" transform="translate(568.000000, 25.000000)">
+                    <path d="M12,0.5 C15.1754375,0.5 18.0504327,1.78728943 20.1315716,3.86842839 C22.2127106,5.94956735 23.5,8.8245625 23.5,12 C23.5,15.1754375 22.2127106,18.0504327 20.1315716,20.1315716 C18.0504327,22.2127106 15.1754375,23.5 12,23.5 C8.8245625,23.5 5.94956735,22.2127106 3.86842839,20.1315716 C1.78728943,18.0504327 0.5,15.1754375 0.5,12 C0.5,8.8245625 1.78728943,5.94956735 3.86842839,3.86842839 C5.94956735,1.78728943 8.8245625,0.5 12,0.5 Z" id="Path" stroke="#D0021B"></path>
+                    <polygon id="Path" fill="#D0021B" points="15.3936 6.9096 17.0904 8.6064 8.6064 17.0904 6.9096 15.3936"></polygon>
+                    <polygon id="Path" fill="#D0021B" points="17.0904 15.3936 15.3936 17.0904 6.9096 8.6064 8.6064 6.9096"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

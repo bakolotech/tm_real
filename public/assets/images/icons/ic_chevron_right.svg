@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="12px" viewBox="0 0 11 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6DEB4371-6A19-4754-B956-195BB97855EF</title>
+    <defs>
+        <polygon id="path-1" points="2.25 1.66666667 3.47972973 0.5 8.75 5.5 3.47972973 10.5 2.25 9.33333333 6.29054054 5.5"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Boutique-/-Présentoire-/-Voir_Produit" transform="translate(-309.000000, -152.000000)">
+            <g id="Group-3" transform="translate(247.000000, 137.500000)">
+                <g id="CHEMAIN" transform="translate(25.000000, 15.000000)">
+                    <g id="Icons/ic_chevron_right-Copy-14" transform="translate(37.000000, 0.000000)">
+                        <polygon id="Shape" points="0 0 11 0 11 11 0 11"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <g id="🌈Color" mask="url(#mask-2)" fill="#D8D8D8" fill-rule="nonzero">
+                            <rect id="Rectangle-path-Copy-23" x="0" y="0" width="11" height="11"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
